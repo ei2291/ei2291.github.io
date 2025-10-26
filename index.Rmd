@@ -36,7 +36,17 @@ Let's link to useful tools for data science:
 
 [About me](about.html)
 
+## Quarterly Results {.tabset}
 
+### By Product
+
+first tab
+
+### By Region
+
+another tab
+
+# New section 
 
 
 
